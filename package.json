@@ -1,0 +1,23 @@
+{
+  "name": "scratch-react-app",
+  "version": "1.0.0",
+  "description": "\"Hello React Students Learn Slowly But Learn Everything From Scratch\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prem7218/React.git"
+  },
+  "author": "Prem.R.Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prem7218/React/issues"
+  },
+  "homepage": "https://github.com/Prem7218/React#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "scratch-react-app": "file:"
+  }
+}
