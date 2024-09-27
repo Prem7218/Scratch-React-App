@@ -2,7 +2,6 @@
   "name": "scratch-react-app",
   "version": "1.0.0",
   "description": "\"Hello React Students Learn Slowly But Learn Everything From Scratch\"",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +17,8 @@
   "homepage": "https://github.com/Prem7218/React#readme",
   "dependencies": {
     "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "scratch-react-app": "file:"
   }
 }
